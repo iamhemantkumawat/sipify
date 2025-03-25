@@ -1,0 +1,7 @@
+# JokerAPI.co Legal & Private
+# ===========================
+# == 0x96e63(vz) & ....... ==
+# ===      Was Here       ===
+# ===========================
+User-agent: *
+Disallow: /
